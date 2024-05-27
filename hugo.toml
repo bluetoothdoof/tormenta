@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'pt-BR'
 title = 'Náufragos'
 theme = "hugo-book"
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
