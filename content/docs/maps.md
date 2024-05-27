@@ -6,6 +6,6 @@ title: Mapas
 
 ## Região
 
-![Mapa geral da região](/losara.png)
+![Mapa geral da região](/static/losara.png)
 
 Personagens começam na **Praia da Tempestade**
