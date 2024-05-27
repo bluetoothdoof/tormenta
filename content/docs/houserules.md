@@ -17,7 +17,7 @@ Opcionalmente, cada jogador (que quiser usar esse método), pode rolar um conjun
 Invés de usar os bônus raciais para atributos listados, o jogador pode escolher uma das seguintes opções:
 
 - +1 em três atributos diferentes
-- +2 em um atributo, e -1 em outro atributo
+- +2 em um atributo
 - +2 em um atributo, +1 em um atributo e -1 em um atributo, todos diferentes
 - +1 em dois atributos diferentes e um poder a mais à escolha do jogador, desde que os pré-requisitos do poder sejam atingidos
 
